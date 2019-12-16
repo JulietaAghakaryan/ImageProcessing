@@ -1,0 +1,1 @@
+The image processor passed to the run method already has the binary_layer_3 + median(4) + minimum(4) run

@@ -1,0 +1,5 @@
+Lets use Gauss(3) + MIN(2) + layer_x
+
+Using Gaussian blur is necessary for smoothening and after minimum filter photo will have more obvious black pixels so layers should work well.
+
+This solution was most accurate for my data set. I was unable to get such good results with matrix. 
