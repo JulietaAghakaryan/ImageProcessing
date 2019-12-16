@@ -1,1 +1,0 @@
-Lets use Gauss(3) + MIN(2) + layer_x
